@@ -3,16 +3,23 @@ body{
     color: darkslateblue;
     margin: 5px;
     padding: 2px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
 header,
 footer {
     text-align: center;
     background-color: gainsboro;
 }
-p{
-    text-align: right;
+
+p {
+    text-align: justify;
+    text-indent: 8ch;
 }
-h2,h3,h4{
+
+h2,
+h3,
+h4 {
     color: crimson;
     text-decoration-line: underline;
 }
